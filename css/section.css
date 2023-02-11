@@ -1,14 +1,14 @@
 .section {
     background-color: hsl(0, 0%, 100%);
     box-shadow: 0 0 4px hsl(0, 2%, 78%);
-    margin: 15px 0;
+    margin: 10px 0;
 }
 .section__header{
-    font-size: 18px;
-    padding: 15px;
+    font-size: 20px;
+    padding: 20px;
     margin: 0;
     border-bottom: 1px solid rgba(196, 195, 195, 0.9);
 }
 .section__body{
-    margin: 15px
+    padding: 20px;
 }
