@@ -1,7 +1,7 @@
 .form {
     display: grid;
     grid-template-columns: 1fr auto;
-    grid-gap: 10px;
+    grid-gap: 20px;
 }
 @media(max-width: 767px) {
     .form {
@@ -11,21 +11,19 @@
 
 .form__input {
     padding: 10px;
-    margin: 10px;
     border: 1px solid hsla(0, 0%, 93%, 0.6);
 }
 
 .form__button {
     padding: 10px;
-    margin: 10px;
     background-color: teal;
     color: white;
     border: none;
     cursor: pointer;
 }
-.form__button:hover{
+.form__button:hover {
     background-color: hsl(180, 100%, 30%);
 }
-.form__button:hover{
+.form__button:active {
     background-color: hsl(180, 100%, 40%);
 }
