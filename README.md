@@ -16,5 +16,9 @@ Po kliknięćiu w przycisk, aplikacja automatycznie ustawia się na pole dodania
 3.CSS
 
 4.JS
+
+5. Normalize
+
+6. ES6 
 # Demo Link
 https://mateuszpiaszczyk.github.io/Todolist/
