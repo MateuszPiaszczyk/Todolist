@@ -9,16 +9,11 @@ PL: Aplikacja lista zadań, oparta o HTML,CSS,JS i BEM, stworzona w ramach kursu
 Po kliknięćiu w przycisk, aplikacja automatycznie ustawia się na pole dodania nowego zadania.
 
 # Technologies and practices used / Technologie i praktyki
-1.BEM
-
-2.HTML
-
-3.CSS
-
-4.JS
-
-5. Normalize
-
-6. ES6 
+1. BEM
+2. CSS
+3. JS
+4. HTML
+5. NORMALIZE
+6. ES6
 # Demo Link
 https://mateuszpiaszczyk.github.io/Todolist/
