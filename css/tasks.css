@@ -9,7 +9,7 @@
     grid-gap: 10px;
     align-items: center;
     padding: 10px;
-    border-bottom: 1px solid hsla(0, 0%, 100%, 0.8);
+    border-bottom: 1px solid hsla(0, 0%, 93%, 0.9);
 }
 
 .tasks__content--done {
@@ -32,7 +32,7 @@
     background-color: hsl(120, 100%, 35%);
 }
 
-.tasks__button--done:hover {
+.tasks__button--done:active {
     background-color: hsl(120, 100%, 45%);
 }
 .tasks__button--remove {
