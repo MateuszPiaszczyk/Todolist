@@ -4,10 +4,23 @@
     margin: 10px 0;
 }
 .section__header{
-    font-size: 20px;
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 20px;
+    justify-content: space-between;
+    align-items: center;
     padding: 20px;
-    margin: 0;
     border-bottom: 1px solid rgba(196, 195, 195, 0.9);
+}
+
+@media(max-width: 767px) {
+    .section__header {
+        grid-template-columns: 1fr;
+    }
+}
+.section__title {
+    font-size: 20px;
+    margin: 0;
 }
 .section__body{
     padding: 20px;
